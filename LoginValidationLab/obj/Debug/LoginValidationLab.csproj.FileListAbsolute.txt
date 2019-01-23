@@ -1,0 +1,7 @@
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\bin\Debug\LoginValidationLab.exe.config
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\bin\Debug\LoginValidationLab.exe
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\bin\Debug\LoginValidationLab.pdb
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\obj\Debug\LoginValidationLab.csprojAssemblyReference.cache
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\obj\Debug\LoginValidationLab.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\obj\Debug\LoginValidationLab.exe
+C:\Users\Mrs Huie\source\repos\LoginValidationLab\LoginValidationLab\obj\Debug\LoginValidationLab.pdb
